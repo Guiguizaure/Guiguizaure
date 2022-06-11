@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guiguizaure
 - 👀 I’m interested in tech, music (songwriter), movies, fantasy and science books, and many more..!
-- 🌱 I’m currently learning the basics of web development, can't wait to know more and more
+- 🌱 I’m currently learning the basics of web development, can't wait to learn more
 - 💞️ I’m looking to collaborate on the creation of websites / apps, also happy to contribute with businesses ideas
 - 📫 How to reach me : g.saltinez@gmail.com
 
